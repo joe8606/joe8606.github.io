@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Scientist | MS in Data Science @ Rutgers
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+    <p>New Brunswick, NJ, 08901</p>
+    <p>(765) 428-0917</p>
+    <p><a href="mailto:isshangyi.lin@gmail.com">isshangyi.lin@gmail.com</a></p>
+    <p><a href="https://www.linkedin.com">LinkedIn</a></p>
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# **SHANG-YI LIN**
+Data Scientist | Logistic Data Analytics Intern @ [Awesung Tech](https://www.awesung.com/)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I'm **Shang-Yi Lin**. In the complex world of data, I strive to find the shortest path to insight. Currently, I'm a Logistic Data Analytics Intern at [Awesung Tech](https://www.awesung.com/) and a second-year MSDS student at Rutgers University, maintaining a **GPA of 3.9**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have 2 years of professional experience. In Taiwan, I worked as a Data Analyst at Taiwan CDC, where I built **ML-driven healthcare solutions** to optimize influenza vaccine usage prediction. I also developed **ETL automation tools and monitoring systems**, significantly reducing communication overhead and report generation time.
+
+At Rutgers, I participated in the **Bristol Myers Squibb (BMS) Data Challenge**, where I designed a fine-tuned Llama 3.2 workflow to normalize internal data, ultimately winning the competition.
+
+Beyond data science, I'm passionate about sports and hiking. I am also a member of the [Rutgers Meditation Club](https://www.instagram.com/rumeditationclub/?hl=en), always seeking my own focus and peace.
+
+Reach out to me on [LinkedIn](www.linkedin.com/in/shang-yi-lin-728725262) or check out my projects on [GitHub](https://github.com/joe8606).
+
+Looking forward to our paths crossing,
+
+Shang-Yi
