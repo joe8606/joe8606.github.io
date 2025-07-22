@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>New Brunswick, NJ, 08901</p>
     <p>(765) 428-0917</p>
     <p><a href="mailto:isshangyi.lin@gmail.com">isshangyi.lin@gmail.com</a></p>
     <p><a href="https://www.linkedin.com/in/shang-yi-lin-728725262/">LinkedIn</a></p>

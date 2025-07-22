@@ -2,96 +2,91 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Shang-Yi Lin
+    - name: Skills
+      value: GenAI, LLM, Hugging Face, LangChain, QLoRA, Python, R, SQL, Solidity, Power BI, Looker Studio, Tableau, GitHub Actions, SAS, Excel, VBA, Anylogic (simulation modeling), Git, DigitalOcean, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Data Science
+      institution: Rutgers University, NJ
+      year: Sep 2024 – Dec 2025 (Current)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 3.9/4.0
+        - Relevant Coursework: Probability & Stat Inference, Regression & Time Series, Data Structure & Algorithm, Stat Modeling & Computing, Data Wrangling, Financial Data Mining, Database, Adv Programming, Stat Learning, Stat Software (NLP)
+    - title: Master of Science in Statistics
+      institution: National Taipei University (NTPU), Taiwan
+      year: Sep 2020 – Jun 2022
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 3.6/4.0
+        - Dissertation: Constructing a Trading Strategy with Machine Learning (Mark: 88/100)
+        - Built machine learning models using logistic regression, integrating technical indicators and sentiment data, achieving 85% prediction accuracy.
+        - Simulated trading strategies using Python, yielding a 15% ROI compared to the S&P 500 benchmark.
+    - title: Bachelor of Business Administration
+      institution: National Cheng Kung University (NCKU), Tainan, Taiwan
+      year: Sep 2015 – Jun 2020
+      description:
+        - Courses: Statistics (A-), Management Information Systems (A), Business Statistics (A-)
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Analyst Intern
+      institution: AWESUNG TECH, Fontana, CA, USA
+      year: May 2025 – Aug 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Reconciled large-scale billing data using Excel (PivotTables, VLOOKUP) and Python (Pandas, NumPy), automating invoice calculations and reducing billing errors by 16% across monthly cycles.
+        - Resolved complex billing discrepancies within an average of 24 hours by collaborating with finance and operations teams, ensuring accuracy under tight monthly deadlines.
+        - Standardized and documented client-specific billing rules, reducing future clarification emails by 22% and streamlining communication with recurring customers.
+        - Gained practical exposure to U.S. warehousing and last-mile logistics systems, deepening understanding of pricing models and operational workflows through direct interaction with logistics data.
+    - title: Data Analyst Intern
+      institution: ALLIANCE HEALTH SYSTEM, Matawan, NJ, USA
+      year: Nov 2024 – Jan 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Analyzed 50,000+ patient records using Python (Pandas, NumPy) to uncover trends in medical procedures and healthcare services, enhancing operational efficiency by 20%.
+        - Developed web scraping scripts with Selenium and Beautiful Soup to process over 10,000 CPT codes from 5 online sources, ensuring comprehensive and accurate data collection.
+        - Created 15+ Power BI dashboards and Python visualizations, enabling stakeholders to make data-driven decisions.
+    - title: Data Analyst
+      institution: Taiwan Center for Disease Control (CDC), Taipei, Taiwan
+      year: Oct 2022 – Mar 2024
       description:
+        - Automated flu vaccine data integration from the National Immunization Information System (NIIS) into PostgreSQL, and developed visual reports using Power BI and Google Cloud Platform's Looker Studio, improving retrieval efficiency by 50%.
+        - Developed the Campus Influenza Vaccination System (CIVS) with web extraction techniques using Selenium and Beautiful Soup, improving data accuracy from 80% to 95% and streamlining student health record management.
+        - Audited the flu vaccine administration fee system biannually, managing 4 million records using SAS to formulate payment principles and cross-reference Health Insurance Bureau data.
+        - Estimated the number of high-risk chronic disease patients by processing over 100 million annual outpatient records from the Ministry of Health and Welfare, providing critical data to determine targets for government-funded flu vaccinations.
+    - title: Logistics and IT Specialist
+      institution: Picasso Tiles, Taipei, Taiwan (Remote)
+      year: Apr 2024 – Jul 2024
+      description:
+        - Tracked vessel schedules and monitored ETA/ETD of shipments, ensuring timely deliveries by coordinating with key stakeholders, including factory personnel and freight forwarders.
+        - Optimized document generation processes by integrating Python with Excel, reducing manual data entry by 20% and streamlining the creation of essential shipping documents such as Packing Lists and Bills of Lading (BOL).
+        - Enhanced data warehouse systems, including OceanDigital, by improving data accuracy and accessibility, enabling more efficient logistics operations.
+    - title: Social Media Data Analytics Intern
+      institution: Eland Information Company, Taipei, Taiwan
+      year: Feb 2021 – Apr 2021
+      description:
+        - Analyzed sentiment data using OpView Social Sentiment Database, contributing to press releases that achieved up to 25,000 views per article.
+        - Supported project analysts by conducting data preprocessing tasks, utilizing Python and SQL queries to retrieve and integrate multiple datasets into a cohesive and valuable table.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research & Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Stability Testing Collaboration with Bristol Myers Squibb (BMS)
+      year: Sep 2024 – Dec 2024
+      description:
+        - Implemented fuzzy matching algorithms (Levenshtein Distance, Cosine Similarity) as a first-stage filter to reduce false negatives, resolving typos and inconsistencies across 7,000+ records and improving data consistency by 40%.
+        - Fine-tuned Llama 3 model as a second-stage refinement to reduce false positives, leveraging dynamic thresholds to enhance data alignment accuracy by 75%.
+    - title: Influenza Vaccine Usage Prediction – Data Analysis Hackathon
+      year: Aug 2023 – Dec 2023
+      description:
+        - Represented CDC and led a team in the Data Analysis Hackathon organized by the Ministry of Health and Welfare.
+        - Developed predictive models, including SVM, XGBoost, Random Forest, and ARIMA, to forecast influenza vaccine recipients for 2023 with 98% accuracy, earning awards for "Best Analysis" and "Proposal Excellence."
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Sports
+    - Hiking
+    - Meditation
