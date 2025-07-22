@@ -12,12 +12,8 @@ profile:
     <p>New Brunswick, NJ, 08901</p>
     <p>(765) 428-0917</p>
     <p><a href="mailto:isshangyi.lin@gmail.com">isshangyi.lin@gmail.com</a></p>
-    <p><a href="https://www.linkedin.com">LinkedIn</a></p>
+    <p><a href="www.linkedin.com/in/shang-yi-lin-728725262">LinkedIn</a></p>
 ---
-
-# **SHANG-YI LIN**
-Data Scientist | Logistic Data Analytics Intern @ [Awesung Tech](https://www.awesung.com/)
-
 Hi, I'm **Shang-Yi Lin**. In the complex world of data, I strive to find the shortest path to insight. Currently, I'm a Logistic Data Analytics Intern at [Awesung Tech](https://www.awesung.com/) and a second-year MSDS student at Rutgers University, maintaining a **GPA of 3.9**.
 
 I have 2 years of professional experience. In Taiwan, I worked as a Data Analyst at Taiwan CDC, where I built **ML-driven healthcare solutions** to optimize influenza vaccine usage prediction. I also developed **ETL automation tools and monitoring systems**, significantly reducing communication overhead and report generation time.
