@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist | MS in Data Science @ Rutgers
+subtitle: Data Scientist | Logistic Data Analytics Intern @ Awesung
 
 profile:
   align: right
