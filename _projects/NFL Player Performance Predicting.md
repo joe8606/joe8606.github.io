@@ -3,8 +3,8 @@ layout: page
 title: NFL Player Performance Predicting
 description:
 img: assets/img/nfl_predict.png
-importance: 2
-category: work
+importance: 1
+category: data science
 giscus_comments: true
 ---
 Tools & Techniques: Python, sklearn, XGBoost, Random Forest, NLP (VADER), Reddit API, PCA, K-Means
