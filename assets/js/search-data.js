@@ -416,12 +416,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -456,6 +451,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-nfl-player-performance-predicting",
+          title: 'NFL Player Performance Predicting',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NFL%20Player%20Performance%20Predicting/";
             },},{id: "projects-merkle-trees-in-a-blockchain-system",
           title: 'Merkle trees in a blockchain system',
           description: "Efficient verification of blockchain transactions and data integrity using Merkle tree hashing.",
