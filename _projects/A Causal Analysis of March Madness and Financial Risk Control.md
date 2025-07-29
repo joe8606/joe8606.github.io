@@ -3,7 +3,7 @@ layout: page
 title: Too Busy for Risk? A Causal Analysis of March Madness and Financial Risk Control
 description: Causal inference study on how NCAA March Madness affects financial risk control using VaR violations
 img: assets/img/march_madness_risk.png
-importance: 1
+importance: 2
 category: data science
 ---
 ## Tools and Methods

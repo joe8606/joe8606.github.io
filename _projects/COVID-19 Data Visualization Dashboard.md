@@ -3,7 +3,7 @@ layout: page
 title: COVID-19 Data Visualization Dashboard
 description: Dynamic COVID-19 data dashboard built with Google Looker Studio and Python
 img: assets/img/COVID-19 Data Visualization Dashboard.png
-importance: 1
+importance: 4
 category: data science
 ---
 ## Tools & Technologies

@@ -3,7 +3,7 @@ layout: page
 title: NFL Player Performance Predicting
 description:
 img: assets/img/nfl_predict.png
-importance: 1
+importance: 3
 category: data science
 giscus_comments: true
 ---

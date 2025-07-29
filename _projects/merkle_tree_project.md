@@ -3,7 +3,7 @@ layout: page
 title: Merkle trees in a blockchain system
 description: Efficient verification of blockchain transactions and data integrity using Merkle tree hashing.
 img: assets/img/merkle_tree.png
-importance: 2
+importance: 5
 category: data science
 related_publications: true
 ---

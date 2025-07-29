@@ -3,7 +3,7 @@ layout: page
 title: E-Commerce Price Tracking System
 description: Automated system to track product prices on Wayfair using web scraping and GitHub Actions
 img: assets/img/ecommerce_tracking.png
-importance: 1
+importance: 3
 category: data science
 ---
 ## Tools & Technologies
