@@ -9,7 +9,7 @@ category: data science
 This project was part of a graduate-level data science competition hosted by the **Rutgers MSDS program**, where we collaborated with a **global pharmaceutical company** to solve real-world data challenges.
 
 Our team won **first place** by developing an innovative LLM-based solution that could classify and standardize experimental quality control (QC) attributes. We used simulated data and open-source tools to demonstrate our approach.
-<img src="/assets/img/award_announcement.png" alt="workflow" style="width:125%; display:block; margin:auto;">
+<img src="/assets/img/award_announcement.png" alt="workflow" style="width:100%; display:block; margin:auto;">
 
 
 Note: All data presented here has been anonymized or simulated for demonstration purposes. No proprietary information or competition results are shared.
