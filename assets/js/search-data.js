@@ -427,11 +427,6 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-too-busy-for-risk-a-causal-analysis-of-march-madness-and-financial-risk-control",
           title: 'Too Busy for Risk? A Causal Analysis of March Madness and Financial Risk...',
           description: "Causal inference study on how NCAA March Madness affects financial risk control using VaR violations",
@@ -452,6 +447,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NFL%20Player%20Performance%20Predicting/";
+            },},{id: "projects-llm-assisted-attribute-standardization-for-experimental-data",
+          title: 'LLM-Assisted Attribute Standardization for Experimental Data',
+          description: "A graduate-level data science competition project that won first place for developing an LLM-based solution to classify and standardize experimental quality control attributes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/llm_standardize/";
             },},{id: "projects-merkle-trees-in-a-blockchain-system",
           title: 'Merkle trees in a blockchain system',
           description: "Efficient verification of blockchain transactions and data integrity using Merkle tree hashing.",
