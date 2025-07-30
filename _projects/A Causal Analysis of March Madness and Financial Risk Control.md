@@ -6,6 +6,7 @@ img: assets/img/march_madness_risk.png
 importance: 2
 category: data science
 ---
+**View Full Report:** [Link to Report](https://github.com/joe8606/Measuring-the-Distraction-Effect-of-March-Madness-on-Financial/blob/main/Measuring-the-Distraction-Effect-of-March-Madness-on-Financial.pdf)
 ## Tools and Methods
 **Technologies:** Python, pandas, Value at Risk (VaR), Propensity Score Estimation, AIPW (Augmented Inverse Probability Weighting), Event-Based Causal Inference, Data Visualization  
 **Concepts:** Causal Inference · Behavioral Finance · Risk Management · Statistical Modeling
@@ -42,4 +43,4 @@ Inspired by the Rubin Causal Model and behavioral finance research, I treated Ma
 ## Why It Matters
 This project helped me connect causal inference techniques with real-world market behavior. It shows that behavioral factors like attention and emotion can influence financial outcomes. I believe this approach can be applied to other large events and can help risk managers prepare for periods when human focus is limited.
 
-**View Full Report:** [Link to Report](https://github.com/joe8606/Measuring-the-Distraction-Effect-of-March-Madness-on-Financial/blob/main/Measuring-the-Distraction-Effect-of-March-Madness-on-Financial.pdf)
+

@@ -6,6 +6,10 @@ img: assets/img/COVID-19 Data Visualization Dashboard.png
 importance: 4
 category: data science
 ---
+- **View Dashboard:** [Link to Dashboard](https://lookerstudio.google.com/reporting/fa7dfe82-9962-4792-85dc-8224df83c175)
+- **View GitHub Repository:** [Link to Repository](https://github.com/joe8606/Covid19_lookerstudio_project.git)
+- **View Medium Article:**[Link to Article](https://medium.com/@joe528491/i-completed-a-data-science-assessment-got-a-verbal-offer-and-walked-away-part-1-869698f19032)
+
 ## Tools & Technologies
 **Technologies:** Python · pandas · Google Looker Studio · Google Sheets · CDC COVID Dataset · Jupyter Notebook  
 **Concepts:** Data Visualization · Dashboard Design · Data Pipeline · Real-time Analytics
@@ -38,9 +42,7 @@ The resulting dashboard enables users to explore U.S. COVID-19 statistics in a c
   <iframe width="100%" height="600" src="https://lookerstudio.google.com/embed/reporting/fa7dfe82-9962-4792-85dc-8224df83c175/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-- **View Dashboard:** [Link to Dashboard](https://lookerstudio.google.com/reporting/fa7dfe82-9962-4792-85dc-8224df83c175)
-- **View GitHub Repository:** [Link to Repository](https://github.com/joe8606/Covid19_lookerstudio_project.git)
-- **View Medium Article:**[Link to Article](https://medium.com/@joe528491/i-completed-a-data-science-assessment-got-a-verbal-offer-and-walked-away-part-1-869698f19032)
+
 
 
 

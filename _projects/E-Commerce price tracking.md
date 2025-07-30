@@ -6,6 +6,9 @@ img: assets/img/ecommerce_tracking.png
 importance: 3
 category: data science
 ---
+- **View GitHub Repository:** [Link to Repository](https://github.com/joe8606/wayfair_product_price_tracker.git)
+- **View full slides(PDF):**[Link to Slides](https://github.com/joe8606/wayfair_product_price_tracker/blob/main/data%20wrangling%20presentation%20group%201.pdf)
+
 ## Tools & Technologies
 **Technologies:** Python · BeautifulSoup · Selenium · pandas · requests · GitHub Actions  
 **Concepts:** CI/CD · Web Scraping · Data Pipeline · Automation · Version Control · Scheduled Tasks
@@ -36,5 +39,4 @@ This project builds an automated system to track product prices on Wayfair. It i
 ## Results
 The system automatically collects product price and availability data every hour and stores timestamped CSV files. This enables long-term price trend analysis, discount tracking, and potential integration with alert systems or dashboards.
 
-- **View GitHub Repository:** [Link to Repository](https://github.com/joe8606/wayfair_product_price_tracker.git)
-- **View full slides(PDF):**[Link to Slides](https://github.com/joe8606/wayfair_product_price_tracker/blob/main/data%20wrangling%20presentation%20group%201.pdf)
+

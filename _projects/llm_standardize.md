@@ -5,7 +5,10 @@ description: A graduate-level data science competition project that won first pl
 img: assets/img/llama_cover.jpg
 importance: 1
 category: data science
+
 ---
+You can explore the demo and see the complete implementation in our [Google Colab notebook](https://colab.research.google.com/drive/1Jc4_lFdFjAV60gEp6U7z9JcwkSjPgyVh?usp=sharing).
+
 This project was part of a graduate-level data science competition hosted by the **Rutgers MSDS program**, where we collaborated with a **global pharmaceutical company** to solve real-world data challenges.
 
 Our team won **first place** by developing an innovative LLM-based solution that could classify and standardize experimental quality control (QC) attributes. We used simulated data and open-source tools to demonstrate our approach.
@@ -92,7 +95,3 @@ By combining semantic language understanding with domain-specific constraints, w
 The techniques we developed can be adapted to other industries that face similar data standardization challenges.
 
 ---
-
-## Demo
-
-You can explore the interactive demo and see the complete implementation in our [Google Colab notebook](https://colab.research.google.com/drive/1Jc4_lFdFjAV60gEp6U7z9JcwkSjPgyVh?usp=sharing).

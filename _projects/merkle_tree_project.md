@@ -8,6 +8,10 @@ category: data science
 related_publications: true
 ---
 
+[Video: Merkle Trees Explained](https://youtu.be/YV5rhi04aqs?si=bHbwhYCFXuzU1HHF)
+
+[Demo Notebook: Merkle Tree Python Demo](https://github.com/joe8606/merkle_tree/blob/main/merkle_tree_demo.ipynb)
+
 Blockchain technology, foundational to cryptocurrencies like Bitcoin, relies on a robust and efficient data structure to manage transactions. A core component of a blockchain is the block, which fundamentally consists of two main parts: the **block header** and the **transaction list**. While the block header contains crucial metadata such as the previous block hash, timestamp, difficulty target, and nonce for proof of work, it also importantly includes the **Merkle root**, which serves to summarize all transactions within that block. The transaction list, conversely, enumerates all transactions contained within the block, commencing with the coinbase transaction that rewards the miner. A significant challenge in managing these blocks arises when considering the scale of transactions.
 
 ## The Fundamental Problem: Verification Efficiency and Storage Optimization
@@ -50,10 +54,5 @@ In summary, Merkle trees are an indispensable data structure in blockchain syste
 
 ---
 
-## Further Reading / Video
-
-[Video: Merkle Trees Explained](https://youtu.be/YV5rhi04aqs?si=bHbwhYCFXuzU1HHF)
-
-[Demo Notebook: Merkle Tree Python Demo](https://github.com/joe8606/merkle_tree/blob/main/merkle_tree_demo.ipynb)
 
 

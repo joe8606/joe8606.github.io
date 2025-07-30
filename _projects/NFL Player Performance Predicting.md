@@ -7,6 +7,11 @@ importance: 3
 category: data science
 giscus_comments: true
 ---
+**Full report and implementation details are available at:**
+- [Full Report and Code on GitHub](https://github.com/joe8606/NFL-Player-Performance-Modeling.git)
+- [Read the Full Report (PDF)](https://github.com/joe8606/NFL-Player-Performance-Modeling/blob/main/Group%201%20-%20Final%20Report.pdf)
+- [Read the Slides(PDF)](https://github.com/joe8606/NFL-Player-Performance-Modeling/blob/main/Data%20Mining%20-%20NFL%20Player%20Performance%20Modeling.pdf)
+
 Tools & Techniques: Python, sklearn, XGBoost, Random Forest, NLP (VADER), Reddit API, PCA, K-Means
 
 ## Overview
@@ -38,10 +43,4 @@ To examine the psychological side of player performance, we conducted sentiment 
 - Sentiment integration pipeline: VADER → Aggregation → Modeling
 
 <img src="/assets/img/nfl_player_predict_workflow.png" alt="workflow" style="width:125%; display:block; margin:auto;">
-
-**Full report and implementation details are available at:**
-- [Full Report and Code on GitHub](https://github.com/joe8606/NFL-Player-Performance-Modeling.git)
-- [Read the Full Report (PDF)](https://github.com/joe8606/NFL-Player-Performance-Modeling/blob/main/Group%201%20-%20Final%20Report.pdf)
-- [Read the Slides(PDF)](https://github.com/joe8606/NFL-Player-Performance-Modeling/blob/main/Data%20Mining%20-%20NFL%20Player%20Performance%20Modeling.pdf)
-
 
