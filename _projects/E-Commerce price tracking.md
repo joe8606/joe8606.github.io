@@ -8,6 +8,7 @@ category: data science
 ---
 - **View GitHub Repository:** [Link to Repository](https://github.com/joe8606/wayfair_product_price_tracker.git)
 - **View full slides(PDF):**[Link to Slides](https://github.com/joe8606/wayfair_product_price_tracker/blob/main/data%20wrangling%20presentation%20group%201.pdf)
+- **View Tracker Demo:**[Link to Demo](https://joe8606.github.io/wayfair_product_price_tracker/)
 
 ## Tools & Technologies
 **Technologies:** Python · BeautifulSoup · Selenium · pandas · requests · GitHub Actions  
